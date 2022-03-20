@@ -1,6 +1,6 @@
 - 🔭 Analista de Sistemas   
 - 🌱 Cursando MBA Engenharia de Software na UFRJ
-- 👯 Interessado em Processos de Negócios, DDD, Soluções Distribuídas, RabbitMQ
+- 👯 Interessado em Processos de Negócio, DDD, Soluções Distribuídas, RabbitMQ
 
 <div><br>
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
