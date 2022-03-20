@@ -5,7 +5,7 @@
 - 🌱 Cursando MBA Engenharia de Software na UFRJ
 - 👯 Interessado em Processos de Negócios, DDD, Soluções Distribuídas
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
